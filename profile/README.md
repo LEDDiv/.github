@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-<!--
+### Research
 
-**Here are some ideas to get you started:**
+At the laboratory for studies on the structure and dynamics of diversity (LDDiv) we combine ecological and paleontological data, network analysis and mathematical modelling to understand how ecological interactions are organized in nature and how they shape diversity patterns at local and regional scales and in ecological and deep time. (see Research Interests).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are particularly interested in phenomena related to diversity loss and their consequences. Some of research questions addressed by our ongoing research projects are:
+- How defaunation has been altering the architecture and functioning natural systems?
+- What are the evolutionary and ecological consequences of interaction loss?
+- How ecological interactions shape diversification dynamics (speciation and extinction rates) within clades?
